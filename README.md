@@ -6,7 +6,7 @@ An AI-powered tool that helps users analyze news articles and get intelligent an
 
 ## 📸 Screenshots
 
-![Application Interface](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=News+Research+Tool+Interface)
+![Application Interface](images/front.png)
 
 *Note: Replace the placeholder image above with an actual screenshot of your application*
 
