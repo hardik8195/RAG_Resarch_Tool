@@ -1,0 +1,11 @@
+langchain-groq
+langchain
+langchain-community
+python-dotenv
+unstructured
+pymongo
+motor
+fastapi
+fastapi[standard]
+uvicorn
+sentence-transformers
