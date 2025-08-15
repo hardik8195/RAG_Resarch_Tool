@@ -1,6 +1,14 @@
 # News Research Tool 🔍
 
+![News Research Tool Interface](https://img.shields.io/badge/Status-Active-brightgreen) ![React](https://img.shields.io/badge/React-18.3.1-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Python-green) ![AI](https://img.shields.io/badge/AI-Powered-orange)
+
 An AI-powered tool that helps users analyze news articles and get intelligent answers to their questions with source attribution.
+
+## 📸 Screenshots
+
+![Application Interface](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=News+Research+Tool+Interface)
+
+*Note: Replace the placeholder image above with an actual screenshot of your application*
 
 ## 🌟 Features
 

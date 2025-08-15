@@ -17,6 +17,7 @@ llm = ChatGroq(
 )
 
 if __name__=="__main__":
-    res = llm.invoke("hello")
-    print(res.content)
+    print(api_key)
+    # res = llm.invoke("hello")
+    # print(res.content)
 
