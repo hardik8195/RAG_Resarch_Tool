@@ -8,8 +8,6 @@ An AI-powered tool that helps users analyze news articles and get intelligent an
 
 ![Application Interface](images/front.png)
 
-*Note: Replace the placeholder image above with an actual screenshot of your application*
-
 ## 🌟 Features
 
 - **URL Processing**: Extract and analyze content from news article URLs
