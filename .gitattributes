@@ -20,7 +20,6 @@
 # Exclude large files from language statistics
 *.css linguist-vendored
 *.min.css linguist-vendored
-*.js linguist-vendored
 *.jsx linguist-vendored
 
 # Mark important Python files as documentation
